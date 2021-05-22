@@ -15,8 +15,8 @@ This project is Panorama Stitching by SIFT algorithm. The scale-invariant featur
 
 Please check the environment and download the lastest openCV. Then run the instruction shown as below
 
-'''sh
+```sh
 python3 panorama.py
-'''
+```
 
 
